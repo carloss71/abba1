@@ -5,10 +5,10 @@ import fs from 'fs'
  
 //᭥🌅᭢ᏢϴΝ ᏞϴՏ ΝႮ́ᎷᎬᎡϴՏ ϘႮᎬ ϘႮᏆᎬᎡᎪՏ᭥🌅᭢
 global.owner = [
-  ['50499698072', 'ī.am/☪︎𝐀𝐥𝐛𝐞𝐫𝐭𝐨🍃/ღᴀ', true],
-  ['380945356128', '🌿◌*̥₊⃬𝕬⃬𝖑𝖇⃬𝖊𝖗⃬𝖙𝖔⃬✭⃟྾⃦ᴀღᴀ', true],
-  ['19045209846', 'LevelUp㋡', true],
-  ['50246028932', 'SinNombre', true]
+  ['59763902442', 'Carlos', true],
+  ['35058586566', 'Abba', true],
+  ['35056655555', 'LevelUp㋡', true],
+  ['35056665566', 'SinNombre', true]
 ]
 global.mods = [] 
 global.prems = [] 
@@ -78,25 +78,25 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 
 
 //᭥🍁᭢━━━━◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞━━━━᭥🍁᭢
-global.ignyc = '\n🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘\n' 
-global.wm = '\n🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘\n' 
-global.botname = '🐱⸽⃕𝕹ʏᴀɴ𝕮ᴀᴛ𝕭ᴏᴛ🍁⃨፝⃕✰'
-global.me = '⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘'
+global.ignyc = '\nAbba Bot y Carlos' 
+global.wm = '\nAbba Bot y Carlos\n' 
+global.botname = 'Abba Bot'
+global.me = 'Abba y Carlos'
 //╰─────────────────────╯
 
 
 //᭥🥗᭢━━━━━━◜𝑻𝑬𝑿𝑻𝑶𝑺◞━━━━━━᭥🥗᭢
-global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌿` 
-global.adanime = `🌸| Aɴɪᴍᴇ Bʏ NʏᴀɴCᴀᴛBᴏᴛ🈴` 
+global.adimagen = `🌅| Iᴍᴀ́ɢᴇɴᴇs Bʏ AbbaBᴏᴛ🌿` 
+global.adanime = `🌸| Aɴɪᴍᴇ Bʏ AbbaBᴏᴛ🈴` 
 global.adyoutube = `🍁| Dᴇsᴄᴀʀɢᴀs ᴅᴇ YᴏᴜTᴜʙᴇ🍄` 
-global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ NʏᴀɴCᴀᴛBᴏᴛ🌺` 
-global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ NʏᴀɴCᴀᴛ🌸`
+global.adsticker = `🏞️| Sᴛɪᴄᴋᴇʀs Bʏ AbbaBᴏᴛ🌺` 
+global.addescargas = `📤| Dᴇsᴄᴀʀɢᴀs Bʏ Abba🌸`
  //╰─────────────────────╯
 
  
 //᭥🍃᭢━━━━━━◜𝑺𝑻𝑰𝑪𝑲𝑬𝑹𝑺◞━━━━━━᭥🍃᭢
 global.packname = `🐢 ❑ Owner:\n📅 ❑ Día:\n🕒 ❑ Hora:\n🗓️ ❑ Fecha:\n🐱 ❑ By:`
-global.author = `▸ Aʟʙᴇʀᴛᴏ Y Asʜʟʏ🎋\n▸ ${dia}\n▸ ${tiempo}\n▸ ${fecha}\n▸ ${botname}`
+global.author = `▸ Abba y Carlos🎋\n▸ ${dia}\n▸ ${tiempo}\n▸ ${fecha}\n▸ ${botname}`
 //╰────────────────────╯	
 	
 
@@ -120,9 +120,9 @@ global.verificado = fs.readFileSync('./storage/image/verificado.png')
 
 
 //᭥🌿᭢━━━━━━━◜𝑳𝑰𝑵𝑲𝑺◞━━━━━━━᭥🌿᭢
-global.linkgc = 'https://chat.whatsapp.com/D2kkLywqKa0G3IfIm7eNf2'
-global.nycuser = 'https://github.com/ALBERTO9883'
-global.script = 'https://github.com/ALBERTO9883/NyanCatBot-MD'
+global.linkgc = 'https://chat.whatsapp.com/D2kkLywqKa0G3IfIm7e'
+global.nycuser = 'https://github.com/carloss71'
+global.script = 'https://github.com/carloss71/abba1'
 //╰─────────────────────╯
 
 
@@ -131,43 +131,43 @@ global.script = 'https://github.com/ALBERTO9883/NyanCatBot-MD'
 global.faketick = { "key": { "participant": `0@s.whatsapp.net`, "remoteJid": "6287834993722-1621306547@g.us", "fromMe": false, "id": "3B64558B07848BD81108C1D14712018E" }, "message": { "stickerMessage": { "fileSha256": "uZiOJzqOvrOo2WGjnMKgX2MMQMyasT+ZDgqUczpIBmY=", "pngThumbnail": catalogo, "mimetype": "image/webp", "height": 64, "width": 64, "directPath": "/v/t62.15575-24/56110107_763365384384977_5720135628188301198_n.enc?oh=450f8f684b06f0ba2dbc9779e5f06774&oe=605B81EE", "fileLength": "60206", "firstFrameLength": 3626, "isAnimated": false } }, "messageTimestamp": "1614070775", "status": "PENDING" }
 //╰─────────────────────╯
 //᭥🌺᭢━━◜𝑪𝑶𝑵𝑻𝑨𝑪𝑻𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━᭥🌺᭢
-global.ownerfk = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo"}, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=19362556628:global.nyanregis\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net"}
+global.ownerfk = { "key": {"participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo"}, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=35058586566:global.nyanregis\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net"}
 //╰─────────────────────╯
 //᭥🌺᭢━━◜𝑪𝑨𝑻𝑨́𝑳𝑶𝑮𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━᭥🌺᭢
-global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
+global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "5219992095479-1625305606@g.us" } : {}) }, message: { orderMessage: { itemCount : -999999, status: 1, surface : 1, message: '🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n⚘Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘', orderTitle: 'Bang', thumbnail: catalogo, sellerJid: '0@s.whatsapp.net'}}}
 //╰─────────────────────╯
 //᭥🌺᭢━━━━◜𝑮𝑰𝑭 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━━━᭥🌺᭢
-global.fgif = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`*Aʟʙᴇʀᴛᴏ Y Asʜʟʏ♥️*`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n      💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`, 'jpegThumbnail': imgfgif }}}
+global.fgif = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":`*Aʟʙᴇʀᴛᴏ Y Asʜʟʏ♥️*`, "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n      💝Abba y Carlos`, 'jpegThumbnail': imgfgif }}}
 //╰─────────────────────╯
 //᭥🌺᭢━━━━◜𝑨𝑼𝑫𝑰𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━━━᭥🌺᭢
 global.estiloaudio = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "50499698072-1625305606@g.us" } : {}) }, message: { "audioMessage": { "mimetype":"audio/ogg; codecs=opus", "seconds": "99569", "ptt": "true"   }}}  
 //╰─────────────────────╯
 //᭥🌺᭢━━◜𝑫𝑶𝑪𝑼𝑴𝑬𝑵𝑻𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━᭥🌺᭢
-global.fdocument = {key : {participant : '0@s.whatsapp.net'},message: {documentMessage: {title: `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n   💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`,jpegThumbnail: catalogo}}}
+global.fdocument = {key : {participant : '0@s.whatsapp.net'},message: {documentMessage: {title: `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n   💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`,jpegThumbnail: catalogo}}}
 //╰─────────────────────╯
 //᭥🌺᭢━━━◜𝑰𝑴𝑨𝑮𝑬𝑵 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑨◞━━━᭥🌺᭢
-global.fakeimg = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"imageMessage": { "title":`*Aʟʙᴇʀᴛᴏ Y Asʜʟʏ♥️*`, "h": `Hmm`,'seconds': '99999', 'imagePlayback': 'true', 'caption': `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n    💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`, 'jpegThumbnail': catalogo }}}
+global.fakeimg = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"imageMessage": { "title":`*Abba y Carlos♥️*`, "h": `Hmm`,'seconds': '99999', 'imagePlayback': 'true', 'caption': `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n    💝Abba y Carlos⚘`, 'jpegThumbnail': catalogo }}}
 //╰─────────────────────╯
 //᭥🌺᭢━━━◜𝑴𝑬𝑵𝑺𝑨𝑱𝑬 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━━᭥🌺᭢
-global.fakemsg = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "17608914335-1625305606@g.us" } : {}) }, message: { "extendedTextMessage": { "text":'🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘', "title": '🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰', 'jpegThumbnail': catalogo}}}
+global.fakemsg = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "17608914335-1625305606@g.us" } : {}) }, message: { "extendedTextMessage": { "text":'🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n💝Abba y Carlos⚘', "title": '🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰', 'jpegThumbnail': catalogo}}}
 //╰─────────────────────╯
 //᭥🌺᭢━◜𝑳𝑶𝑪𝑨𝑳𝑰𝒁𝑨𝑪𝑰𝑶́𝑵 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑨◞━᭥🌺᭢
-global.flocation = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n   💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`,jpegThumbnail: catalogo}} }
+global.flocation = {key : {participant : '0@s.whatsapp.net'},message: {locationMessage: {name: `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n   💝Abba y Carlos⚘`,jpegThumbnail: catalogo}} }
 //╰─────────────────────╯
 //᭥🌺᭢━━━◜𝑽𝑰́𝑫𝑬𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━━᭥🌺᭢
-global.fvideo = {key: { fromMe: false,participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {}) },message: { "videoMessage": { "title":`🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`, "h": `Hmm`,'seconds': '2022', 'caption': `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`, 'jpegThumbnail': catalogo}} }
+global.fvideo = {key: { fromMe: false,participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {}) },message: { "videoMessage": { "title":`🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰`, "h": `Hmm`,'seconds': '2022', 'caption': `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰`, 'jpegThumbnail': catalogo}} }
 //╰─────────────────────╯
 //᭥🌺᭢━━━◜𝑳𝑰𝑵𝑲𝑮𝑷 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━━᭥🌺᭢
-global.fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "m","groupName": "Alberto", "caption": `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰\n      💝Aʟʙᴇʀᴛᴏ Y Asʜʟʏ⚘`, 'jpegThumbnail': catalogo}} }
+global.fgclink = {key: {participant: "0@s.whatsapp.net","remoteJid": "0@s.whatsapp.net"},"message": {"groupInviteMessage": {"groupJid": "6288213840883-1616169743@g.us","inviteCode": "m","groupName": "Alberto", "caption": `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰\n      💝Abba y Carlos⚘`, 'jpegThumbnail': catalogo}} }
 //╰─────────────────────╯
 //᭥🌺᭢━━◜𝑷𝑹𝑶𝑫𝑼𝑪𝑻𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━᭥🌺᭢
-global.fproducto = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "17608914335@s.whatsapp.net" } : {}) }, message: { "productMessage": { "product": { "productImage":{ "mimetype": "image/jpeg", "jpegThumbnail": catalogo }, "title": `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`, "description": "NyanCatBot-MD", "currencyCode": "USD", "priceAmount1000": "200000000", "retailerId": "Ghost", "productImageCount": 1 }, "businessOwnerJid": `0@s.whatsapp.net` }}}
+global.fproducto = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "17608914335@s.whatsapp.net" } : {}) }, message: { "productMessage": { "product": { "productImage":{ "mimetype": "image/jpeg", "jpegThumbnail": catalogo }, "title": `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰`, "description": "NyanCatBot-MD", "currencyCode": "USD", "priceAmount1000": "200000000", "retailerId": "Ghost", "productImageCount": 1 }, "businessOwnerJid": `0@s.whatsapp.net` }}}
 //╰─────────────────────╯
 //᭥🌺᭢━━━◜𝑳𝑰𝑽𝑬 𝑳𝑶𝑪𝑨𝑳𝑰𝒁𝑨𝑪𝑰𝑶́𝑵◞━━━᭥🌺᭢
-global.liveloc = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false  ? { remoteJid: "status@broadcast" } : {}) }, message: { "liveLocationMessage": { "caption":"🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰","h": `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`, 'jpegThumbnail': catalogo}}}
+global.liveloc = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false  ? { remoteJid: "status@broadcast" } : {}) }, message: { "liveLocationMessage": { "caption":"🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰","h": `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰`, 'jpegThumbnail': catalogo}}}
 //╰─────────────────────╯
 //᭥🌺᭢━━◜𝑷𝑹𝑶𝑫𝑼𝑪𝑻𝑶 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶 2◞━━᭥🌺᭢
-global.fproducto2 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "status@broadcast" } : {})}, message: { "productMessage": { "product": { "productImage":{ "mimetype": "image/jpeg", "jpegThumbnail": catalogo }, "title": `🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰`, "retailerId": "🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰", "productImageCount": 1 }, "businessOwnerJid": `0@s.whatsapp.net` }}}
+global.fproducto2 = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "status@broadcast" } : {})}, message: { "productMessage": { "product": { "productImage":{ "mimetype": "image/jpeg", "jpegThumbnail": catalogo }, "title": `🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰`, "retailerId": "🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰", "productImageCount": 1 }, "businessOwnerJid": `0@s.whatsapp.net` }}}
 //╰─────────────────────╯
 //᭥🌺᭢━━◜𝑽𝑰𝑬𝑾𝑶𝑵𝑪𝑬 𝑽𝑬𝑹𝑰𝑭𝑰𝑪𝑨𝑫𝑶◞━━᭥🌺᭢
 global.fakevo = { key: { fromMe: false, participant: '0@s.whatsapp.net', remoteJid: 'status@broadcast' }, message: { imageMessage: { mimetype: 'image/jpeg', caption: botname, jpegThumbnail: catalogo, viewOnce: true }}}
@@ -177,7 +177,7 @@ global.fakevo = { key: { fromMe: false, participant: '0@s.whatsapp.net', remoteJ
 //╰─────────────────────╯
 
 //᭥🌄᭢━━━━━◜𝑨𝑫 𝑫𝑬 𝑮𝑹𝑼𝑷𝑶◞━━━━━᭥🌄᭢
-global.adgp = { contextInfo: { externalAdReply: { showAdAttribution: true, title: '🐱⸽⃕NʏᴀɴCᴀᴛBᴏᴛ - MD🍁⃨፝⃕✰', body: global.botname, sourceUrl: global.linkgc, thumbnail: miniurl }}}
+global.adgp = { contextInfo: { externalAdReply: { showAdAttribution: true, title: '🐱⸽⃕AbbaBᴏᴛ - MD🍁⃨፝⃕✰', body: global.botname, sourceUrl: global.linkgc, thumbnail: miniurl }}}
 //╰─────────────────────╯
 
 //᭥🌄᭢━━━━◜𝑨𝑫 𝑫𝑬 𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴◞━━━━᭥🌄᭢
